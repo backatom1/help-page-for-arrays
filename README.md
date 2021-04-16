@@ -1,1 +1,4 @@
-# help-page-for-arrays
+# Шпаргалка по работе с массивами в JavaScript
+
+***
+
