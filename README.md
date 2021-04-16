@@ -13,6 +13,6 @@
 
 *Синтаксис:*
 
- `{js} {arr.push(element1, ..., elementN);}`
+ `{JavaScript} {arr.push(element1, ..., elementN);}`
 
 ***
