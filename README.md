@@ -4,6 +4,8 @@
 ## Для добавления/удаления элементов: 
 
 ***
-* ```diff - push (...items)``` – добавляет элементы в конец
+* ```push (...items)``` – добавляет элементы в конец
+
+[Ссылка на MDN]:https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/push "Ссылка на MDN"
 
 ***
