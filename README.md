@@ -35,3 +35,4 @@
  ```javascript
  arr.pop();
  ```
+ ***
