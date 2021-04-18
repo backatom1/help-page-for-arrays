@@ -1,13 +1,12 @@
 # Шпаргалка по работе с массивами в JavaScript
-
-
-
+   
+   
 Ссылка на документацию **MDN** [со всеми методами массивов](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
 Ссылка на материал на основе которого составлялась шпаргалка [смотреть](https://learn.javascript.ru/array-methods)
-
-
-
+   
+   
+   
 ## Для перебора элементов
 
 ***
